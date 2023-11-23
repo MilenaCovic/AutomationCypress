@@ -1,0 +1,14 @@
+{
+ "first_name": "Milena",
+ "last_name": "Covic",
+ "dob":  "1994-04-28",
+ "address": "Test address",
+ "postcode": "11000",
+ "city": "Belgrade",
+ "state": "Serbia",
+ "country":"Serbia",
+ "phone": "123456789",
+"email": "mi@mi.mi",
+"password": "Test123!"
+
+}
