@@ -18,7 +18,15 @@ getSubmit() {
 
     return cy.get('.btnSubmit')
 }
+
+getEmailError () {
+
+    return cy.get('[data-test="email-error"]')
 }
 
+getPasswordError() {
+
+    return cy.get('[data-test="password-error"]')
+}}
 
 export default LoginPage
